@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عمر | الصفحة الشخصية</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    .header {
+      background-color: #007bff;
+      color: white;
+      padding: 40px;
+      text-align: center;
+    }
+    .container {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      margin-top: -30px;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    .section {
+      margin-top: 30px;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>مرحباً، أنا عمر 👋</h1>
+    <p>مطور ومصمم مواقع | أساعدك في بناء حضور رقمي مميز</p>
+  </div>
+
+  <div class="container">
+    <div class="section">
+      <h2>من أنا؟</h2>
+      <p>أنا عمر، مهتم بتصميم وتطوير المواقع، أعمل على إنشاء مواقع بسيطة وسريعة الاستجابة باستخدام HTML وCSS وJavaScript.</p>
+    </div>
+
+    <div class="section">
+      <h2>خدماتي</h2>
+      <ul>
+        <li>تصميم مواقع شخصية</li>
+        <li>صفحات تعريفية للشركات</li>
+        <li>مواقع بسيطة للمت
