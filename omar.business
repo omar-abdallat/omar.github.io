@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <title>مرحباً بك</title>
+</head>
+<body>
+  <h1>أهلاً بك في موقعي الشخصي</h1>
+  <p>أنا عمر، وهذا موقعي باستخدام GitHub Pages.</p>
+</body>
+</html>
